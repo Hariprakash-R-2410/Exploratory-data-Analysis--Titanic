@@ -64,6 +64,14 @@ The following steps were performed:
   - Cabin
 
 ---
+## 📊 Workflow
+
+1. Data Loading  
+2. Data Cleaning  
+3. Exploratory Data Analysis  
+4. Feature Engineering  
+5. Model Building  
+6. Evaluation
 
 ## ⚙️ Feature Engineering
 
